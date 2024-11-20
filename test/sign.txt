@@ -1,0 +1,2 @@
+'virus1': b'signature1',
+'virus2': b'signature2',
